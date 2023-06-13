@@ -2,19 +2,14 @@
 
 This repository contains a collection of data science and analysis projects showcasing various techniques and methodologies used in the field of data science. Each project focuses on a specific dataset and demonstrates the application of data analysis, machine learning, and visualization techniques to derive insights and solve real-world problems.
 
-## Project List
+## Project Structure
 
-1. Project 1: Customer Segmentation Analysis
-   - Dataset: [Online Retail Dataset](link-to-dataset)
-   - Description: This project involves segmenting customers based on their purchasing behavior using clustering algorithms and visualizing the results.
+The repository is organized as follows:
 
-2. Project 2: Sentiment Analysis of Product Reviews
-   - Dataset: [Amazon Product Reviews](link-to-dataset)
-   - Description: In this project, sentiment analysis techniques are applied to analyze customer sentiments from product reviews and classify them as positive, negative, or neutral.
-
-3. Project 3: Predictive Sales Analysis
-   - Dataset: [Sales Data](link-to-dataset)
-   - Description: This project focuses on predicting future sales based on historical sales data using time series analysis and forecasting models.
+- Project 1: Amazon Global Super Store
+- Project 2: 
+- Project 3: 
+...
 
 ## Installation
 
@@ -38,20 +33,6 @@ env\Scripts\activate  # for Windows
 ```
 pip install -r requirements.txt
 ```
-
-## Usage
-
-1. Navigate to the project directory.
-```
-cd project-1
-```
-
-2. Run the project script.
-```
-python main.py
-```
-
-3. Follow the instructions provided in the project's README file for further usage details and specific project instructions.
 
 ## Contributing
 
