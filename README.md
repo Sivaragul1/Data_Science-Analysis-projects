@@ -6,7 +6,7 @@ This repository contains a collection of data science and analysis projects show
 
 The repository is organized as follows:
 
-- Project 1: Amazon Global Super Store
+- Project 1: Amazon Global Superstore
 - Project 2: 
 - Project 3: 
 ...
